@@ -1,2 +1,2 @@
-# Dmytr1K.github.io
+# dmytr1k.github.io
 [Моё резюме](https://dmytr1k.github.io/)
